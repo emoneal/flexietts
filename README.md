@@ -1,6 +1,6 @@
 # FlexieTTS
 
-A simple application utilizing IBM Watson's API capabilities to create a realistic TTS (Text-to-Speech). 
+A simple application utilizing IBM Watson's API capabilities to create a realistic TTS (Text-to-Speech) for use in various online applications. This is meant as an accessibility tool for those who are unable to speak and also selective mutes.
 
 # Future Scope
 
