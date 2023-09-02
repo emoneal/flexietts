@@ -4,4 +4,4 @@ A simple application utilizing IBM Watson's API capabilities to create a realist
 
 # Future Scope
 
-* I would like to implement FlexieTTS to automatically work with your input and output devices so that you can hear and output the TTS to your input devices without needing external applications such as Visual Audio Cable or VoiceMeter.# flexietts
+* I would like to implement FlexieTTS to automatically work with your input and output devices so that you can hear and output the TTS to your input devices without needing external applications such as Visual Audio Cable or VoiceMeter.
